@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "D:\\PIPENV_VENV_IN_PROJECT\\start-flask-epMAjy29\\Scripts\\python.exe",
+    "python.jediEnabled": false,
+    "python.autoComplete.showAdvancedMembers": true,
+    "python.formatting.provider": "yapf"
+}
