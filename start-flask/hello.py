@@ -22,3 +22,8 @@ def get_name():
 @app.route('/name/<username>')
 def show_name(username):
     return "username %s" % escape(username)
+
+
+@app.route('/post/<int:post_id>')
+def show_post(post_id):
+    return 'Post %d' % post_id
