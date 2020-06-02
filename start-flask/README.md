@@ -21,7 +21,9 @@
   2. Linux
   
    	```shell
-      export FLASK_APP=hello.py
-      flask run
+      
+          export FLASK_APP=hello.py
+          flask run
+       
       ```
   
