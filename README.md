@@ -3,5 +3,5 @@
 
 ## Quick start
 
-/start-flask
+/start-flask/
 
