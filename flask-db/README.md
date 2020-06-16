@@ -35,3 +35,13 @@
 > [Define and Access the Database](https://flask.palletsprojects.com/en/1.1.x/tutorial/database/)
 
     使用sqlite3作为数据持久化数据库。
+    
+
+指令
+
+````
+    flask init-db
+````
+
+在项目根目录下输入该指令，进行数据库初始化，它会执行提前准备好的sql文件，并生成一个instance的目录，里面会有一个
+flaskr.sqlite的文件，利用pycharm Database插件选择sqlite，file选择flaskr.sqlite文件，可以直接访问数据库
